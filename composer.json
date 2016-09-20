@@ -1,0 +1,7 @@
+{
+    "name": "finaldream/w3-total-cache",
+    "description": "Updated W3 Total Cache with Composer support",
+    "license": "ICS",
+    "type": "wordpress-plugin",
+    "require": {}
+}
